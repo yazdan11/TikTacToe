@@ -1,1 +1,1 @@
-This my first game madw with pygame
+This my first game made with pygame
